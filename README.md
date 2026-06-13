@@ -1,3 +1,8 @@
+# Roadmap-angular
+
+Multi-user roadmap tracker built with Angular.
+Helps developers structure their learning path with AI-powered features.
+
 # RoadmapAngular
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.5.
